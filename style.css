@@ -1,0 +1,84 @@
+.footer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.footer .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 321px;
+}
+
+.footer .overlap-group {
+  position: relative;
+  width: 1441px;
+  height: 321px;
+  left: -1px;
+}
+
+.footer .rectangle {
+  height: 321px;
+  left: 1px;
+  background-color: #d9d9d980;
+  position: absolute;
+  width: 1440px;
+  top: 0;
+}
+
+.footer .this-site-is {
+  position: absolute;
+  width: 667px;
+  height: 167px;
+  top: 53px;
+  left: 387px;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.footer .text-wrapper {
+  position: absolute;
+  width: 189px;
+  height: 44px;
+  top: 258px;
+  left: 165px;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.footer .div {
+  position: absolute;
+  width: 189px;
+  height: 44px;
+  top: 258px;
+  left: 354px;
+  font-family: "Museo Sans-300", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.footer .rectangle-2 {
+  height: 9px;
+  left: 0;
+  background-color: #3f3e99;
+  position: absolute;
+  width: 1440px;
+  top: 0;
+}
